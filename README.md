@@ -41,7 +41,7 @@ Visit the project to see the animated menu in action:
 ## 📸 Screenshots
 
 ### Main Menu Animation
-![Menu Animation](https://assets/a.png)
+![Menu Animation]()
 *The main menu reveal animation with smooth GSAP transitions*
 
 ### Hero Section
