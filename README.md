@@ -41,7 +41,7 @@ Visit the project to see the animated menu in action:
 ## 📸 Screenshots
 
 ### Main Menu Animation
-![Menu Animation](https://img.shields.io/badge/Screenshot-Coming%20Soon-blue?style=for-the-badge)
+![Menu Animation](https://assets/a.png)
 *The main menu reveal animation with smooth GSAP transitions*
 
 ### Hero Section
