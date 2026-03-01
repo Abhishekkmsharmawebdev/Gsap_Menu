@@ -38,4 +38,24 @@ Visit the project to see the animated menu in action:
 
 ---
 
+## 📸 Screenshots
+
+### Main Menu Animation
+![Menu Animation](https://img.shields.io/badge/Screenshot-Coming%20Soon-blue?style=for-the-badge)
+*The main menu reveal animation with smooth GSAP transitions*
+
+### Hero Section
+![Hero Section](https://img.shields.io/badge/Screenshot-Coming%20Soon-blue?style=for-the-badge)
+*Featured hero section with animated images and content*
+
+### Navigation Panel
+![Navigation](https://img.shields.io/badge/Screenshot-Coming%20Soon-blue?style=for-the-badge)
+*Interactive navigation with Projects, Expertise, Agency, and Contact sections*
+
+### Responsive Design
+![Responsive](https://img.shields.io/badge/Screenshot-Coming%20Soon-blue?style=for-the-badge)
+*Optimized layout for mobile, tablet, and desktop devices*
+
+---
+
 ## 📦 Project Structure
